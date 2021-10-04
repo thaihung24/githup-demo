@@ -17,7 +17,7 @@
                     <ul class="Menu__Trademark__List" >
                         <li class="Menu__Trademark__List__Babhabit"><a href="">Bad Habits</a>
                             <ul class="List">
-                                <img src="/image/logobadhabit.jpg" alt=""  class="reponsive">
+                                <img src="image/logobadhabit.jpg" alt=""  class="reponsive">
                                 <li> <a href="">T-SHIRT</a></li>
                                 <li><a href="">SHIRT</a></li>
                                 <li><a href="">OUTERWEAR</a></li>
@@ -27,7 +27,7 @@
                         </li>
                         <li class="Menu__Trademark__List__Dirtycoins"><a href="">Dirty Coins</a>
                             <ul class="List">
-                                <img src="/image/logodirtycoin.png" alt=""  class="reponsive">
+                                <img src="image/logodirtycoin.png" alt=""  class="reponsive">
                                 <li><a href="">T-SHIRT</a></li>
                                 <li><a href="">SHIRT</a></li>
                                 <li><a href="">OUTERWEAR</a></li>
@@ -37,7 +37,7 @@
                         </li>
                         <li class="Menu__Trademark__List__UnCover"><a href="">Un Cover</a>
                              <ul class="List">
-                                <img src="/image/Logouncover.jpg" alt=""  class="reponsive">
+                                <img src="image/Logouncover.jpg" alt=""  class="reponsive">
                                 <li><a href="">T-SHIRT</a></li>
                                 <li><a href="">SHIRT</a></li>
                                 <li><a href="">OUTERWEAR</a></li>
@@ -47,7 +47,7 @@
                         </li>
                         <li class="Menu__Trademark__List__DAVIES"><a href="">DAVIES</a>
                              <ul class="List">
-                                <img src="/image/logodavies.jpg" alt="" class="reponsive">
+                                <img src="image/logodavies.jpg" alt="" class="reponsive">
                                 <li><a href="">T-SHIRT</a></li>
                                 <li><a href="">SHIRT</a></li>
                                 <li><a href="">OUTERWEAR</a></li>
@@ -99,8 +99,8 @@
                <div class="row-1" >
                     <div class="row-1-col-1">
                         <div class="aspect-ratio-169">
-                            <a href=""> <img src="/image/badhabit/slideshow_1.jpg" alt=""></a>
-                            <a href=""> <img src="/image/slide/slide2.jpg" alt=""></a>
+                            <a href=""> <img src="image/badhabit/slideshow_1.jpg" alt=""></a>
+                            <a href=""> <img src="image/slide/slide2.jpg" alt=""></a>
                             <a href=""> <img src="image/badhabit/slideshow_3.jpg" alt=""></a>  
                             <a href=""> <img src="image/bobui/slideshow2.jpg" alt=""></a>
                         </div>
@@ -184,6 +184,7 @@
         }
     })
     */
+    /*change*/
     const imgPosition =document.querySelectorAll(".aspect-ratio-169 a img") 
     const imgContainer=document.querySelector(".aspect-ratio-169")
     const dotItem=document.querySelectorAll(".dot")
