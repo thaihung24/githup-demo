@@ -184,7 +184,7 @@
         }
     })
     */
-    /*change*/
+    
     const imgPosition =document.querySelectorAll(".aspect-ratio-169 a img") 
     const imgContainer=document.querySelector(".aspect-ratio-169")
     const dotItem=document.querySelectorAll(".dot")
